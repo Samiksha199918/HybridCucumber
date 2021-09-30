@@ -1,0 +1,1 @@
+{"uuid":"6b8314dd-d1ba-4404-b187-c0b2e0ad1327","name":"com.testCases.PIM","children":["e5aef002-5e68-463d-849a-e6993021f52c"],"befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1632994630532,"stop":1632994630745}],"links":[],"start":1632994581044,"stop":1632994630844}
