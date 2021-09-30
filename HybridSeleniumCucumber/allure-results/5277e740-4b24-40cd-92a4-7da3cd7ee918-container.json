@@ -1,0 +1,1 @@
+{"uuid":"5277e740-4b24-40cd-92a4-7da3cd7ee918","name":"com.testCases.Recruitment","children":["6ba7e2f2-9db7-40c8-834f-7551e19f567b"],"befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1632995642719,"stop":1632995643287}],"links":[],"start":1632995618542,"stop":1632995643357}
